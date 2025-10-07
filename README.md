@@ -5,7 +5,7 @@ This Power BI project visualizes and analyzes the cost of education in different
 ## 📊 Dashboard Preview
 Here’s a preview of the Power BI dashboard:
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](dashboard.png.pdf)
 
 ## 🔗 Live Power BI Report
 You can view the interactive dashboard here:  
